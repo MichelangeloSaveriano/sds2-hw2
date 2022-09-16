@@ -1,2 +1,2 @@
-# sds2-hw1
-This project has been done as first HW for the "Statistical Methods in Data Science II" course.
+# sds2-hw2
+This project has been done as second HW for the "Statistical Methods in Data Science II" course.
